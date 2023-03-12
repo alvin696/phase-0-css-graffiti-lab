@@ -1,0 +1,25 @@
+/* write your override styles here */
+  /* Increase the font size of all graffiti tags */
+.tag {
+  font-size: 24px;
+}
+
+/* Change the background color of the wall */
+#wall {
+  background-color: #F5F5F5;
+}
+
+/* Add a border to all graffiti tags */
+.tag {
+  border: 2px solid black;
+}
+
+/* Change the font color of all graffiti tags */
+.tag {
+  color: red;
+}
+
+/* Change the font family of all graffiti tags */
+.tag {
+  font-family: Arial, sans-serif;
+}
